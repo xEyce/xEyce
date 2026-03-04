@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Clifford, a graduate of BS in Computer Engineering and a web developer.
+
+I make projects based on my interest and to solve problems.
+
+I'm currently learning more about full-stack development. Tech stacks like react, laravel, tailwind etc.
+
+My main tech stack is react, laravel, tailwindcss, mysql, and some experience in Django.
+
+I have work experience as a web developer during my OJT and a Technical Support Engineer at Integrated Computer Systems Inc.
+
+You can see below some of my public projects.
+
+Fun facts:
+  - I like coffee
+  - One piece is the best anime
+  - Hobbies: watching animes, computer games, badminton
